@@ -24,9 +24,9 @@ else:
     MYSQL_DB = 'app_pylabs'
 
 # DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': MYSQL_DB,
+# 'default': {
+# 'ENGINE': 'django.db.backends.mysql',
+# 'NAME': MYSQL_DB,
 #         'USER': MYSQL_USER,
 #         'PASSWORD': MYSQL_PASS,
 #         'HOST': MYSQL_HOST,
